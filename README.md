@@ -1,1 +1,1 @@
-# meteo-react : auto-formation sur "MeteorJS + ReactJS + MongoDB"
+# meteor-react : auto-formation sur "MeteorJS + ReactJS + MongoDB"
